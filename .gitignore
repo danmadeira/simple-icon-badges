@@ -1,2 +1,5 @@
-## shell scripts:
 *.sh
+*.html
+*.txt
+*.bkp
+*.old
