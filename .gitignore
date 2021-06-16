@@ -1,7 +1,7 @@
 *.sh
 *.html
 *.txt
+*.tmp
 *.bkp
 *.old
-*.tmp
 try/
