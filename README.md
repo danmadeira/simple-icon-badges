@@ -1875,6 +1875,7 @@ Copy the appropriate `<img>` element and paste it in your Markdown file (e.g., `
 | <img src="https://img.shields.io/badge/ableton%20live-%23000000.svg?&style=for-the-badge&logo=ableton%20live&logoColor=white" /> | `<img src="https://img.shields.io/badge/ableton%20live-%23000000.svg?&style=for-the-badge&logo=ableton%20live&logoColor=white" />` |
 | <img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" /> | `<img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" />` |
 | <img src="https://img.shields.io/badge/Proteus-%23008082.svg?&style=for-the-badge&logo=atom&logoColor=white" /> | `<img src="https://img.shields.io/badge/Proteus-%23008082.svg?&style=for-the-badge&logo=atom&logoColor=white" />` |
+| <img src="https://img.shields.io/badge/NX%20siemens-%23039999.svg?&style=for-the-badge&logo=siemens&logoColor=white" /> | `<img src="https://img.shields.io/badge/NX%20siemens-%23039999.svg?&style=for-the-badge&logo=siemens&logoColor=white" />` |
 ## License
 
 [MIT](./LICENSE)
